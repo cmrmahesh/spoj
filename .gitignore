@@ -1,0 +1,9 @@
+*.pyc
+*.out
+*.swp
+*.swo
+temp.py
+temp.cpp
+temp.cc
+temp.c
+
