@@ -10,3 +10,4 @@ while True:
 	for x in s:
 		c[x] += 1
 	print ' '.join(c.values())
+
