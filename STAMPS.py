@@ -16,5 +16,6 @@ for t in xrange(1,int(raw_input())+1):
 		print c
 		print
 	else:
+		print 'Scenario #%s:' %(t)
 		print 'impossible'
 		print
