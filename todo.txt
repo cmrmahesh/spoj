@@ -8,7 +8,7 @@ http://www.spoj.com/problems/CSTREET/
 http://www.spoj.com/problems/CTRICK/
 http://www.spoj.com/problems/DIVEQL/
 http://www.spoj.com/problems/FACTCG2/
-http://www.spoj.com/problems/GCD2/
+
 http://www.spoj.com/problems/GUESSTHE/
 http://www.spoj.com/problems/HIGHWAYS/
 http://www.spoj.com/problems/LKS/
@@ -46,7 +46,6 @@ http://www.spoj.com/problems/DIGCNT/
 ve
 
 http://www.spoj.com/problems/AE1B/
-http://www.spoj.com/problems/CANDY/
 http://www.spoj.com/problems/MKBOOK/
 http://www.spoj.com/problems/BASE/
 http://www.spoj.com/problems/OFORTUNE/

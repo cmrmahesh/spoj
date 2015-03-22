@@ -1,6 +1,11 @@
-while True:
+import sys
+while 1:
 	try:
-		n = int(raw_input()) - 1
-	except Exception, e:
+		a = int(input())
+	except EOFError:
 		break
-	print (n << 1 if n else 1)
+	if a == 1:
+		print(1)
+	else:
+		n = 2*a-2
+	print(n)
