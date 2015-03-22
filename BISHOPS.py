@@ -1,6 +1,7 @@
-while True:
-	try:
-		n = int(raw_input())
-	except Exception, e:
-		break
-	print 2 + (n - 2) * 2
+import sys
+for num in sys.stdin.readlines() :
+	x = int(num)
+	if x == 1 :
+		print 1
+	else :
+		print 2 * (x - 1)
