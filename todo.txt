@@ -2,8 +2,8 @@ http://www.spoj.com/problems/DANGER/
 http://www.spoj.com/problems/DOMINO1/
 http://www.spoj.com/problems/SILVER/
 http://www.spoj.com/problems/CAM5/
-http://www.spoj.com/problems/CIRCLE_E/
-http://www.spoj.com/problems/CRDS/
+
+
 http://www.spoj.com/problems/CSTREET/
 http://www.spoj.com/problems/CTRICK/
 http://www.spoj.com/problems/DIVEQL/
@@ -26,8 +26,8 @@ http://www.spoj.com/problems/FIBOSUM/
 
 http://www.spoj.com/problems/GIRLSNBS/
 http://www.spoj.com/problems/XMAX/
-http://www.spoj.com/problems/UJ/
-http://www.spoj.com/problems/BISHOPS/
+
+
 
 http://www.spoj.com/problems/PTC/
 http://www.spoj.com/problems/PTCLONG/
